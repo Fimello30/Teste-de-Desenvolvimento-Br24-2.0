@@ -1,79 +1,50 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Seleção - Desenvolvedor Br24
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## Utilizando a plataforma Bitrix24 juntamente com a linguagem de programação PHP desenvolva um CRUD conforme descrito abaixo:
 
-## About Laravel
+* Criar um formulário de cadastro solicitando as seguintes informações: Nome, Telefone, e-mail, CPF, nome da empresa e CNPJ.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+* Quando o formulário for preenchido, checar pelos campos CNPJ e CPF se o cadastro já existe, se já existir, o cadastro deve ser atualizado, se não, deverá ser criado.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+* Com o formulário acima você irá cadastrar as informações em COMPANY (Empresas).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+* E também com o mesmo formulário você irá cadastrar informações de CONTACTS (Contatos), que pertencem àquela empresa.
 
-## Learning Laravel
+* Na entidade COMPANIES, deve haver um campo no qual serão somados os valores de todos os DEALS (negócios) ganhos vinculadas a esta empresa. Sempre que um novo negócio for dado como ganho, o valor deste campo deve ser incrementado.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+__DICA:__ O Bitrix24 possui Webhooks nos Pipelines e em todos os eventos do CRM. 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Requisitos:
 
-## Laravel Sponsors
+* Programação Orientada a Objeto
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+* Padrão MVC
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
+* Aplicativo está dentro do Bitrix24
 
-## Contributing
+* __Utilização do Laravel__
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Informações Básicas:
 
-## Code of Conduct
+* Crie um portal Bitrix24 através do link: www.bitrix24.com.br
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+* Lembre-se de criar um aplicativo na plataforma Bitrix24, por que seu código é inserido no Bitrix através de aplicativos.
 
-## Security Vulnerabilities
+* Pode-se utilizar Webhook de entrada ou utilizar a função de instalar aplicativo.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+* Algumas informações de autenticação do Bitrix24 podem ser armazenadas em SESSÕES.
 
-## License
+* Os contatos devem ser vinculado com empresa. 
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+* __Dica:__ O relacionamento entre duas entidades se dá por um campo de identificação em uma das entidades.
+
+* Fique livre para nos mostrar sua criatividade no layout.
+
+* O Bitrix exige  estar hospedado e com HTTPS. 
+
+## Adicional
+* Lista com CONTACTS (Contatos) e COMPANY (Empresas) criadas.
+
+## Site para acesso a aplicação
+
+* https://selecaodesenvolvedorbr24.000webhostapp.com/
