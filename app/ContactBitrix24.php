@@ -59,4 +59,15 @@ class ContactBitrix24 extends Model
         $result = json_decode($result, 1);
         ConnectionBitrix24::writeToLog($result, 'Update contact');
     }
+    public static function ListaDeContact(){
+        $URL="crm.contact.list";
+        $data = http_build_query(array(
+        'select' => ["ID","NAME", "UF_CRM_1592106833", "EMAIL", "PHONE"]
+        ));
+        $result = ConnectionBitrix24::ExecutionConn($data,$URL);
+        $result = json_decode($result, 1);
+        ConnectionBitrix24::writeToLog($result, 'list id');
+
+        return $result;
+    }
 }

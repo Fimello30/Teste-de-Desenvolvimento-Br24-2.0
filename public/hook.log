@@ -23804,3 +23804,517 @@ Array
 )
 
 ------------------------
+
+------------------------
+2020.06.21 20:11:58
+list id
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1592770317.9993
+            [finish] => 1592770318.0204
+            [duration] => 0.021106958389282
+            [processing] => 0.003558874130249
+            [date_start] => 2020-06-21T23:11:57+03:00
+            [date_finish] => 2020-06-21T23:11:58+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:08
+list id
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1592770507.9941
+            [finish] => 1592770508.0218
+            [duration] => 0.027667045593262
+            [processing] => 0.0075840950012207
+            [date_start] => 2020-06-21T23:15:07+03:00
+            [date_finish] => 2020-06-21T23:15:08+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:12
+list id
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1592770511.1885
+            [finish] => 1592770511.2147
+            [duration] => 0.026135921478271
+            [processing] => 0.0064640045166016
+            [date_start] => 2020-06-21T23:15:11+03:00
+            [date_finish] => 2020-06-21T23:15:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:15
+list id
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1592770514.8089
+            [finish] => 1592770514.8286
+            [duration] => 0.019647836685181
+            [processing] => 0.0029051303863525
+            [date_start] => 2020-06-21T23:15:14+03:00
+            [date_finish] => 2020-06-21T23:15:14+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:24
+checa se CNPJ já existe
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1592770523.686
+            [finish] => 1592770523.7135
+            [duration] => 0.027502059936523
+            [processing] => 0.011121988296509
+            [date_start] => 2020-06-21T23:15:23+03:00
+            [date_finish] => 2020-06-21T23:15:23+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:24
+checa se CPF já existe
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1592770524.0092
+            [finish] => 1592770524.0314
+            [duration] => 0.022261142730713
+            [processing] => 0.0054829120635986
+            [date_start] => 2020-06-21T23:15:24+03:00
+            [date_finish] => 2020-06-21T23:15:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:25
+new company
+Array
+(
+    [result] => 256
+    [time] => Array
+        (
+            [start] => 1592770524.3564
+            [finish] => 1592770524.4547
+            [duration] => 0.098270893096924
+            [processing] => 0.081088066101074
+            [date_start] => 2020-06-21T23:15:24+03:00
+            [date_finish] => 2020-06-21T23:15:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:25
+new contact
+Array
+(
+    [result] => 320
+    [time] => Array
+        (
+            [start] => 1592770524.7548
+            [finish] => 1592770524.8498
+            [duration] => 0.094923973083496
+            [processing] => 0.075299978256226
+            [date_start] => 2020-06-21T23:15:24+03:00
+            [date_finish] => 2020-06-21T23:15:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:26
+checa se CNPJ já existe
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 256
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770525.1634
+            [finish] => 1592770525.1875
+            [duration] => 0.024089097976685
+            [processing] => 0.00394606590271
+            [date_start] => 2020-06-21T23:15:25+03:00
+            [date_finish] => 2020-06-21T23:15:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:26
+checa se CPF já existe
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 320
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770525.4996
+            [finish] => 1592770525.5217
+            [duration] => 0.022154092788696
+            [processing] => 0.0055968761444092
+            [date_start] => 2020-06-21T23:15:25+03:00
+            [date_finish] => 2020-06-21T23:15:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:26
+add a contact to the specified company
+Array
+(
+    [result] => 1
+    [time] => Array
+        (
+            [start] => 1592770525.8438
+            [finish] => 1592770525.867
+            [duration] => 0.023203134536743
+            [processing] => 0.0062539577484131
+            [date_start] => 2020-06-21T23:15:25+03:00
+            [date_finish] => 2020-06-21T23:15:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:15:30
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 320
+                    [NAME] => Filipe Sampaio de Mello
+                    [UF_CRM_1592106833] => 40013307843
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 692
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 999210161
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 694
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello.sampaio@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770529.2206
+            [finish] => 1592770529.2445
+            [duration] => 0.023850917816162
+            [processing] => 0.0062160491943359
+            [date_start] => 2020-06-21T23:15:29+03:00
+            [date_finish] => 2020-06-21T23:15:29+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:16:01
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [TITLE] => empresa1
+                    [ID] => 256
+                    [UF_CRM_1592106903] => 123
+                    [UF_CRM_1592205695] => 
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770560.6905
+            [finish] => 1592770560.7116
+            [duration] => 0.021095037460327
+            [processing] => 0.0032858848571777
+            [date_start] => 2020-06-21T23:16:00+03:00
+            [date_finish] => 2020-06-21T23:16:00+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:16:05
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 320
+                    [NAME] => Filipe Sampaio de Mello
+                    [UF_CRM_1592106833] => 40013307843
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 692
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 999210161
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 694
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello.sampaio@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770564.4176
+            [finish] => 1592770564.4441
+            [duration] => 0.026503801345825
+            [processing] => 0.0066490173339844
+            [date_start] => 2020-06-21T23:16:04+03:00
+            [date_finish] => 2020-06-21T23:16:04+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:16:18
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 320
+                    [NAME] => Filipe Sampaio de Mello
+                    [UF_CRM_1592106833] => 40013307843
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 692
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 999210161
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 694
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello.sampaio@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770577.6636
+            [finish] => 1592770577.6867
+            [duration] => 0.023076057434082
+            [processing] => 0.0061509609222412
+            [date_start] => 2020-06-21T23:16:17+03:00
+            [date_finish] => 2020-06-21T23:16:17+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.21 20:16:22
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 320
+                    [NAME] => Filipe Sampaio de Mello
+                    [UF_CRM_1592106833] => 40013307843
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 692
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 999210161
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 694
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello.sampaio@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592770581.8187
+            [finish] => 1592770581.8424
+            [duration] => 0.023738145828247
+            [processing] => 0.0062000751495361
+            [date_start] => 2020-06-21T23:16:21+03:00
+            [date_finish] => 2020-06-21T23:16:21+03:00
+        )
+
+)
+
+------------------------

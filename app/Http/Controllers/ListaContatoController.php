@@ -10,15 +10,8 @@ class ListaContatoController extends Controller
 {
     public function index()
     {
-        $URL="crm.contact.list";
-        $data = http_build_query(array(
-            'select' => ["ID","NAME", "UF_CRM_1592106833", "EMAIL", "PHONE"]
-        ));
-        $result = ConnectionBitrix24::ExecutionConn($data,$URL);
-        $result = json_decode($result, 1);
-        ConnectionBitrix24::writeToLog($result, 'list id');
-        //dd(compact('result'));
-
+        $company = new ContactBitrix24();
+        $result = $company->ListaDeContact();
         return view('contato.index',compact('result'));
     }
 }
