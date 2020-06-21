@@ -12,6 +12,7 @@ class ListaContatoController extends Controller
     {
         $company = new ContactBitrix24();
         $result = $company->ListaDeContact();
+
         return view('contato.index',compact('result'));
     }
 }

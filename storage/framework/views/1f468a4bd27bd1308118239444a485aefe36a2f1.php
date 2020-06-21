@@ -15,8 +15,16 @@
             <tr>
                 <td><?php echo e($result['result'][$i]['NAME']); ?></td>
                 <td><?php echo e($result['result'][$i]['UF_CRM_1592106833']); ?></td>
-                <td><?php echo e($result['result'][$i]['EMAIL'][0]['VALUE']); ?></td>
-                <td><?php echo e($result['result'][$i]['PHONE'][0]['VALUE']); ?></td>
+                <td>
+                    <?php for($j = 0; $j < count($result['result'][$i]['EMAIL']); $j++): ?>
+                        <?php echo e($result['result'][$i]['EMAIL'][$j]['VALUE']); ?><br>
+                    <?php endfor; ?>
+                </td>
+                <td>
+                    <?php for($j = 0; $j < count($result['result'][$i]['EMAIL']); $j++): ?>
+                        <?php echo e($result['result'][$i]['PHONE'][$j]['VALUE']); ?><br>
+                    <?php endfor; ?>
+                </td>
             </tr>
         <?php endfor; ?>
     </table>

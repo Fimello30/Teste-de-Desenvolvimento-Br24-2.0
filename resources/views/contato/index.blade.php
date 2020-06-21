@@ -17,8 +17,16 @@
             <tr>
                 <td>{{$result['result'][$i]['NAME']}}</td>
                 <td>{{$result['result'][$i]['UF_CRM_1592106833']}}</td>
-                <td>{{$result['result'][$i]['EMAIL'][0]['VALUE']}}</td>
-                <td>{{$result['result'][$i]['PHONE'][0]['VALUE']}}</td>
+                <td>
+                    @for ($j = 0; $j < count($result['result'][$i]['EMAIL']); $j++)
+                        {{$result['result'][$i]['EMAIL'][$j]['VALUE']}}<br>
+                    @endfor
+                </td>
+                <td>
+                    @for ($j = 0; $j < count($result['result'][$i]['EMAIL']); $j++)
+                        {{$result['result'][$i]['PHONE'][$j]['VALUE']}}<br>
+                    @endfor
+                </td>
             </tr>
         @endfor
     </table>
