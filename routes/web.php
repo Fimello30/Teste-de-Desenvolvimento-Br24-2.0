@@ -34,4 +34,4 @@ Route::get('/contato',['uses'=>'ListaContatoController@index']);
 
 Route::get('/companhia',['uses'=>'ListaCompanhiaController@index']);
 
-Route::post('/deals',['uses'=>'DealsController@index']);
+
