@@ -8,10 +8,8 @@ use App\ConnectionBitrix24;
 
 class DealsController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $result = $_REQUEST;
-
-        DealBitrix24::GET_Deal($result);
+        DealBitrix24::GET_Deal($request);
     }
 }
