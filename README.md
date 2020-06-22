@@ -47,4 +47,4 @@ __DICA:__ O Bitrix24 possui Webhooks nos Pipelines e em todos os eventos do CRM.
 
 ## Site para acesso a aplicação
 
-* http://selecaodesenvolvedorbr24.herokuapp.com/
+* https://selecaodesenvolvedorbr24.herokuapp.com/
