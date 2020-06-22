@@ -10,10 +10,9 @@ class DealsController extends Controller
 {
     public function index(Request $request)
     {
-        //error_log($request->all());
-        //Log::info($request->all());
-        Log::info(json_decode($request->all(), 1));
-        GET_DEAL("150");
+        dd($request);
+        //Log::info(json_decode($request->all(), 1));
+        //GET_DEAL("150");
 
     }
 }
