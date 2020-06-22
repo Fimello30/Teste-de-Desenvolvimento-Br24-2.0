@@ -12,6 +12,7 @@ class DealsController extends Controller
     {
         //error_log($request->all());
         //Log::info($request->all());
+        Log::info(json_decode($request->all(), 1));
         GET_DEAL("150");
 
     }
