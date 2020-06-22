@@ -226,3 +226,599 @@ Array
 )
 
 ------------------------
+
+------------------------
+2020.06.22 3:06:40
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 346
+                    [NAME] => Gabriel Rubino
+                    [UF_CRM_1592106833] => 1
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 760
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 16981936343
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 762
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => grubino821@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 348
+                    [NAME] => Jeff
+                    [UF_CRM_1592106833] => 2
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 764
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 766
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592795198.8539
+            [finish] => 1592795198.88
+            [duration] => 0.026122093200684
+            [processing] => 0.0071918964385986
+            [date_start] => 2020-06-22T06:06:38+03:00
+            [date_finish] => 2020-06-22T06:06:38+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:07:14
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 346
+                    [NAME] => Gabriel Rubino
+                    [UF_CRM_1592106833] => 1
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 760
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 16981936343
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 762
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => grubino821@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 348
+                    [NAME] => Jeff
+                    [UF_CRM_1592106833] => 2
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 764
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 766
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592795233.0945
+            [finish] => 1592795233.1215
+            [duration] => 0.027037858963013
+            [processing] => 0.007133960723877
+            [date_start] => 2020-06-22T06:07:13+03:00
+            [date_finish] => 2020-06-22T06:07:13+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:07:21
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [TITLE] => Casa2
+                    [ID] => 278
+                    [UF_CRM_1592106903] => 123123
+                    [UF_CRM_1592205695] => 
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592795239.6643
+            [finish] => 1592795239.6871
+            [duration] => 0.022804975509644
+            [processing] => 0.003507137298584
+            [date_start] => 2020-06-22T06:07:19+03:00
+            [date_finish] => 2020-06-22T06:07:19+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:07:24
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 346
+                    [NAME] => Gabriel Rubino
+                    [UF_CRM_1592106833] => 1
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 760
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 16981936343
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 762
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => grubino821@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 348
+                    [NAME] => Jeff
+                    [UF_CRM_1592106833] => 2
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 764
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 766
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592795242.4245
+            [finish] => 1592795242.4509
+            [duration] => 0.026434898376465
+            [processing] => 0.0069010257720947
+            [date_start] => 2020-06-22T06:07:22+03:00
+            [date_finish] => 2020-06-22T06:07:22+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:08:10
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 346
+                    [NAME] => Gabriel Rubino
+                    [UF_CRM_1592106833] => 1
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 760
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 16981936343
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 762
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => grubino821@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 348
+                    [NAME] => Jeff
+                    [UF_CRM_1592106833] => 2
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 764
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 766
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592795288.7627
+            [finish] => 1592795288.7898
+            [duration] => 0.02708888053894
+            [processing] => 0.007260799407959
+            [date_start] => 2020-06-22T06:08:08+03:00
+            [date_finish] => 2020-06-22T06:08:08+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:09:13
+checa se CNPJ já existe
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 278
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592795351.5799
+            [finish] => 1592795351.6025
+            [duration] => 0.022593021392822
+            [processing] => 0.0032579898834229
+            [date_start] => 2020-06-22T06:09:11+03:00
+            [date_finish] => 2020-06-22T06:09:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:09:13
+checa se CPF já existe
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 348
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1592795351.9149
+            [finish] => 1592795351.9387
+            [duration] => 0.023730993270874
+            [processing] => 0.0061511993408203
+            [date_start] => 2020-06-22T06:09:11+03:00
+            [date_finish] => 2020-06-22T06:09:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:09:13
+Update contact
+Array
+(
+    [result] => 1
+    [time] => Array
+        (
+            [start] => 1592795352.2342
+            [finish] => 1592795352.3073
+            [duration] => 0.073164939880371
+            [processing] => 0.05368709564209
+            [date_start] => 2020-06-22T06:09:12+03:00
+            [date_finish] => 2020-06-22T06:09:12+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:09:14
+Update em company
+Array
+(
+    [result] => 1
+    [time] => Array
+        (
+            [start] => 1592795352.6123
+            [finish] => 1592795352.692
+            [duration] => 0.079686880111694
+            [processing] => 0.061413049697876
+            [date_start] => 2020-06-22T06:09:12+03:00
+            [date_finish] => 2020-06-22T06:09:12+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:09:15
+add a contact to the specified company
+Array
+(
+    [result] => 
+    [time] => Array
+        (
+            [start] => 1592795353.6138
+            [finish] => 1592795353.6363
+            [duration] => 0.02248477935791
+            [processing] => 0.0039589405059814
+            [date_start] => 2020-06-22T06:09:13+03:00
+            [date_finish] => 2020-06-22T06:09:13+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 3:09:19
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 346
+                    [NAME] => Gabriel Rubino
+                    [UF_CRM_1592106833] => 1
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 760
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 16981936343
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 762
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => grubino821@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 348
+                    [NAME] => Jeff
+                    [UF_CRM_1592106833] => 2
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 764
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123
+                                    [TYPE_ID] => PHONE
+                                )
+
+                            [1] => Array
+                                (
+                                    [ID] => 768
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123123123
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 766
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 123123@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                            [1] => Array
+                                (
+                                    [ID] => 770
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => Jeff@yahoo.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592795357.3713
+            [finish] => 1592795357.3963
+            [duration] => 0.025043964385986
+            [processing] => 0.0062019824981689
+            [date_start] => 2020-06-22T06:09:17+03:00
+            [date_finish] => 2020-06-22T06:09:17+03:00
+        )
+
+)
+
+------------------------

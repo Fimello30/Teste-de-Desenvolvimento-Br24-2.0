@@ -39,7 +39,7 @@ class DealBitrix24 extends Model
 
         $result = ConnectionBitrix24::ExecutionConn($data,$URL);
         $result = json_decode($result, 1);
-        ConnectionBitrix24:: writeToLog($result, 'list company');
+        ConnectionBitrix24::writeToLog($result, 'list company');
 
         if ($result['result']==NULL) {
             return 0;
@@ -60,6 +60,6 @@ class DealBitrix24 extends Model
         ));
         $result = ConnectionBitrix24::ExecutionConn($data,$Url);
         $result = json_decode($result, 1);
-        ConnectionBitrix24:: writeToLog($result, 'Update no saldo');
+        ConnectionBitrix24::writeToLog($result, 'Update no saldo');
     }
 }

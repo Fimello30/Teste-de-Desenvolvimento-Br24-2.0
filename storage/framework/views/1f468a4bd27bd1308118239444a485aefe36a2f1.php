@@ -21,7 +21,7 @@
                     <?php endfor; ?>
                 </td>
                 <td>
-                    <?php for($j = 0; $j < count($result['result'][$i]['EMAIL']); $j++): ?>
+                    <?php for($j = 0; $j < count($result['result'][$i]['PHONE']); $j++): ?>
                         <?php echo e($result['result'][$i]['PHONE'][$j]['VALUE']); ?><br>
                     <?php endfor; ?>
                 </td>
