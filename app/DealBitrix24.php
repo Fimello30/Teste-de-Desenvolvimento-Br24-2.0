@@ -14,7 +14,7 @@ class DealBitrix24 extends Model
         ));
         $result = ConnectionBitrix24::ExecutionConn($data,$Url);
         $result = json_decode($result, 1);
-        ConnectionBitrix24:: writeToLog($result, 'GET deals');
+        ConnectionBitrix24::writeToLog($result, 'GET deals');
 
         if($result['result']['STAGE_ID'] == 'WON'){
             DealBitrix24::WON_Deal($result);
