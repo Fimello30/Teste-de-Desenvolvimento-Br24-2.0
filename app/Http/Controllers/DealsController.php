@@ -10,7 +10,7 @@ class DealsController extends Controller
 {
     public function index(Request $request)
     {
-        error_log($request);
+        error_log($request->all());
         Log::info($request->all());
         GET_DEAL($request->input('data.FIELDS.ID'));
 
