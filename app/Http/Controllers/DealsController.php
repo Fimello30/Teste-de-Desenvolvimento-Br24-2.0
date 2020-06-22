@@ -10,6 +10,6 @@ class DealsController extends Controller
 {
     public function index(Request $request)
     {
-        GET_DEAL($request->input('ID'));
+        GET_DEAL($request->input('FIELDS.ID'));
     }
 }
