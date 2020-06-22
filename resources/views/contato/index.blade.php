@@ -23,7 +23,7 @@
                     @endfor
                 </td>
                 <td>
-                    @for ($j = 0; $j < count($result['result'][$i]['EMAIL']); $j++)
+                    @for ($j = 0; $j < count($result['result'][$i]['PHONE']); $j++)
                         {{$result['result'][$i]['PHONE'][$j]['VALUE']}}<br>
                     @endfor
                 </td>

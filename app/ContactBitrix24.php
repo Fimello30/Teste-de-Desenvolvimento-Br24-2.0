@@ -67,6 +67,7 @@ class ContactBitrix24 extends Model
         $result = ConnectionBitrix24::ExecutionConn($data,$URL);
         $result = json_decode($result, 1);
         ConnectionBitrix24::writeToLog($result, 'list id');
+        dd(compact($result));
 
         return $result;
     }

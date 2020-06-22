@@ -1,0 +1,228 @@
+
+------------------------
+2020.06.22 2:00:15
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 330
+                    [NAME] => Filipe Sampaio de Mello
+                    [UF_CRM_1592106833] => 40013307843
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 716
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 999210161
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 718
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello.sampaio@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                            [1] => Array
+                                (
+                                    [ID] => 720
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 332
+                    [NAME] => Bruna Mello
+                    [UF_CRM_1592106833] => 11111111
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 722
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 992720825
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 724
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => bruna@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592791214.7232
+            [finish] => 1592791214.7497
+            [duration] => 0.026504993438721
+            [processing] => 0.0069370269775391
+            [date_start] => 2020-06-22T05:00:14+03:00
+            [date_finish] => 2020-06-22T05:00:14+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 2:00:38
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [TITLE] => empresa 1
+                    [ID] => 264
+                    [UF_CRM_1592106903] => 123
+                    [UF_CRM_1592205695] => 160|BRL
+                )
+
+            [1] => Array
+                (
+                    [TITLE] => Empresa 3
+                    [ID] => 266
+                    [UF_CRM_1592106903] => 32112332
+                    [UF_CRM_1592205695] => 
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592791237.6268
+            [finish] => 1592791237.6546
+            [duration] => 0.027793884277344
+            [processing] => 0.0063788890838623
+            [date_start] => 2020-06-22T05:00:37+03:00
+            [date_finish] => 2020-06-22T05:00:37+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.06.22 2:00:41
+list id
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 330
+                    [NAME] => Filipe Sampaio de Mello
+                    [UF_CRM_1592106833] => 40013307843
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 716
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 999210161
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 718
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello.sampaio@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                            [1] => Array
+                                (
+                                    [ID] => 720
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => filipe.mello@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 332
+                    [NAME] => Bruna Mello
+                    [UF_CRM_1592106833] => 11111111
+                    [PHONE] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 722
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => 992720825
+                                    [TYPE_ID] => PHONE
+                                )
+
+                        )
+
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 724
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => bruna@gmail.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1592791240.6236
+            [finish] => 1592791240.6481
+            [duration] => 0.024556159973145
+            [processing] => 0.0068421363830566
+            [date_start] => 2020-06-22T05:00:40+03:00
+            [date_finish] => 2020-06-22T05:00:40+03:00
+        )
+
+)
+
+------------------------
