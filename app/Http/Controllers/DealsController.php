@@ -11,7 +11,7 @@ class DealsController extends Controller
     public function index(Request $request)
     {
         error_log($request);
-        Log::info($request);
+        Log::info($request->all());
         GET_DEAL($request->input('data.FIELDS.ID'));
 
     }
