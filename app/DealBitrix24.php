@@ -7,10 +7,10 @@ use App\ConnectionBitrix24;
 
 class DealBitrix24 extends Model
 {
-    public static function GET_Deal($array){
+    public static function GET_Deal($id){
         $Url = 'crm.deal.get';
         $data = http_build_query(array(
-            'ID' => $array["data"]['FIELDS']["ID"]
+            'ID' => $id
         ));
         $result = ConnectionBitrix24::ExecutionConn($data,$Url);
         $result = json_decode($result, 1);

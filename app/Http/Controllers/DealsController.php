@@ -10,6 +10,6 @@ class DealsController extends Controller
 {
     public function index(Request $request)
     {
-        DealBitrix24::GET_Deal($request);
+        GET_DEAL($request->input('ID'));
     }
 }
