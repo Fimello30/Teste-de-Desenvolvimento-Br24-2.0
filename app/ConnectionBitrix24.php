@@ -25,6 +25,7 @@ class ConnectionBitrix24 extends Model
         return true;
     }
 
+    #todo teste
     public static function ExecutionConn($queryData,$URL){
         $queryUrl = 'https://b24-mowx23.bitrix24.com.br/rest/1/0srzm0w5eq0gfwtm/'. $URL;
         $curl = curl_init();
